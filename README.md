@@ -4,7 +4,7 @@
 
 <p><samp>less pitch deck. more git log.</samp></p>
 
-<p><a href="https://github.com/ceoweb20?tab=repositories">repositories ↗</a> &nbsp;·&nbsp; <a href="https://github.com/ceoweb20?tab=stars">starred ↗</a></p>
+<p><a href="https://github.com/eyesclose?tab=repositories">repositories ↗</a> &nbsp;·&nbsp; <a href="https://github.com/eyesclose?tab=stars">starred ↗</a></p>
 
 </div>
 
@@ -18,8 +18,8 @@
 
 | Repository | The rabbit hole |
 | :--- | :--- |
-| [**swiftifyplusplus**](https://github.com/ceoweb20/swiftifyplusplus) | Desktop Spotify player. Qt Quick on the surface, Rust and librespot underneath. |
-| [**libredesk**](https://github.com/ceoweb20/libredesk) | Self-hosted customer support. Live chat, email, one Go binary. |
+| [**swiftifyplusplus**](https://github.com/eyesclose/swiftifyplusplus) | Desktop Spotify player. Qt Quick on the surface, Rust and librespot underneath. |
+| [**libredesk**](https://github.com/eyesclose/libredesk) | Self-hosted customer support. Live chat, email, one Go binary. |
 
 <br>
 
