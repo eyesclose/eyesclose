@@ -1,23 +1,29 @@
 {
   "version": 1,
   "login": "eyesclose",
-  "seed": "#9B9382",
-  "seedFromAvatar": true,
-  "scheme": "tonalSpot",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "vibrant",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
     "socials",
     "about",
+    "wave",
     "stack",
     "projects",
     "stats",
     "streak",
-    "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
@@ -119,19 +125,11 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://t.me/cerenite"
       }
     ],
-    "variant": "chip",
-    "fill": "tonal",
+    "variant": "icon",
+    "fill": "filled",
     "card": true
   },
   "buttons": {
